@@ -1,6 +1,6 @@
 import { Box, Stack } from '@mui/material';
 import Loader from '@/components/Loader';
-import ChannelCard from '@/components/ChannelCard';
+// import ChannelCard from '@/components/ChannelCard';
 import VideoCard from '@/components/VideoCard';
 
 const Videos = ({ videos, direction, justifyContent }: any) => {
